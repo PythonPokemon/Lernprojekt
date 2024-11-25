@@ -1,0 +1,22 @@
+﻿Monat 1: Grundlagen von Datenstrukturen
+Ziele: Grundlagen in C# auffrischen, einfache Datenstrukturen kennenlernen.
+
+Woche 1: Einführung in Arrays
+Tag 1: Was sind Arrays? Syntax in C#
+Tag 2–5: Operationen mit Arrays (Hinzufügen, Entfernen, Iterieren)
+Tag 6–7: Mini-Projekt: Summe und Durchschnittswerte eines Arrays berechnen.
+
+Woche 2: Listen und ArrayList
+Tag 8: Was ist eine Liste? Unterschied zu Arrays.
+Tag 9–11: List-Methoden (Add, Remove, Contains, IndexOf).
+Tag 12–14: Mini-Projekt: Eine Einkaufsliste erstellen und bearbeiten.
+
+Woche 3: Stacks (LIFO)
+Tag 15: Konzept von Stacks.
+Tag 16–18: Implementierung eines Stacks mit der Stack-Klasse in C#.
+Tag 19–21: Mini-Projekt: Undo-Funktion simulieren.
+
+Woche 4: Queues (FIFO)
+Tag 22: Konzept von Queues.
+Tag 23–25: Implementierung einer Queue mit der Queue-Klasse in C#.
+Tag 26–28: Mini-Projekt: Kundenservice-Simulation.

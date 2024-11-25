@@ -1,0 +1,12 @@
+﻿Monat 3: Such- und Sortieralgorithmen
+Ziele: Effiziente Datenmanipulation erlernen.
+
+Woche 1–2: Sortieralgorithmen
+Tag 59–63: Bubble Sort und Selection Sort.
+Tag 64–68: Insertion Sort und Merge Sort.
+Mini-Projekt: Sortierverfahren vergleichen.
+
+Woche 3–4: Suchalgorithmen
+Tag 69–71: Lineare Suche.
+Tag 72–74: Binäre Suche.
+Tag 75–77: Mini-Projekt: Implementierung einer Telefonnummernsuche.

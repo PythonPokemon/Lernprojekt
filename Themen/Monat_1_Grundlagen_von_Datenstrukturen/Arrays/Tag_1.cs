@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lernprojekt.Themen.Arrays
+namespace Lernprojekt.Themen.Monat_1_Grundlagen_von_Datenstrukturen.Arrays
 {
     public class Tag_1
     {
@@ -28,7 +28,7 @@ namespace Lernprojekt.Themen.Arrays
             }
 
             // 5. Elemente bearbeiten
-            zahlen[1] = 25; // Das Element an Index 1 wird auf 25 geändert.
+            zahlen[1] = 25; // Das Element an Index 1 wird geändert.
             Console.WriteLine("Geändertes Array:");
             foreach (var zahl in zahlen)
             {

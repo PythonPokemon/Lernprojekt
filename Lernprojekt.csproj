@@ -45,13 +45,24 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Themen\Arrays\Tag_1.cs" />
+    <Compile Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Arrays\Tag_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Themen\Listen\" />
+    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Listen\" />
+    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Queues\" />
+    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Stacks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Projekt.txt" />
+    <Content Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Grundlagen.txt" />
+    <Content Include="Themen\Monat_2_Fortgeschrittene_Datenstrukturen\Fortgeschrittene Datenstrukturen.txt" />
+    <Content Include="Themen\Monat_3_Such_und_Sortieralgorithmen\Monat 3 Such und Sortieralgorithmen.txt" />
+    <Content Include="Themen\Monat_4_Baumstrukturen\Monat 4 Baumstrukturen.txt" />
+    <Content Include="Themen\Monat_5_Graphen_und_Algorithmen\Monat 5  Graphen und Algorithmen.txt" />
+    <Content Include="Themen\Monat_6_Praxisprojekte_und_Optimierung\Monat 6 Praxisprojekte und Optimierung.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

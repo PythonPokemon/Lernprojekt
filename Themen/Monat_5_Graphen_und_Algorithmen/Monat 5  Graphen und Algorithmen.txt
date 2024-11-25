@@ -1,0 +1,17 @@
+﻿Monat 5: Graphen und Algorithmen
+Ziele: Grundlagen von Graphen und ihre Algorithmen.
+
+Woche 1: Einführung in Graphen
+Tag 96–98: Konzepte von Knoten, Kanten, gerichtete/ungerichtete Graphen.
+Tag 99–101: Darstellung eines Graphen mit Adjazenzlisten.
+
+Woche 2: Tiefen- und Breitensuche (DFS und BFS)
+Tag 102–104: Implementierung von DFS.
+Tag 105–107: Implementierung von BFS.
+
+Woche 3: Dijkstra-Algorithmus
+Tag 108–110: Einführung und Anwendung.
+Tag 111–113: Implementierung von Dijkstra in C#.
+
+Woche 4: Mini-Projekt
+Tag 114–116: Navigation in einem Straßennetz simulieren.

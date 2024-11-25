@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Lernprojekt.Themen.Arrays; // Namespace importieren
+using Lernprojekt.Themen.Monat_1_Grundlagen_von_Datenstrukturen.Arrays; // Namespace importieren
 
 namespace Lernprojekt
 {
