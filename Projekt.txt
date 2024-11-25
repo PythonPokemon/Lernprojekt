@@ -4,7 +4,7 @@ der speziell für Anfänger im Bereich Datenstrukturen und Algorithmen in C# ent
 Der Plan erfordert täglich 15 Minuten Zeit und steigert den Schwierigkeitsgrad schrittweise.
 
 Das tägliche Zeitlimit von 15 Minuten wird durch kleine, machbare Einheiten eingehalten. 
-Möchtest du mit dem Plan starten oder Anpassungen vornehmen?
+MöchTest2 du mit dem Plan starten oder Anpassungen vornehmen?
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
 Monat 1: Grundlagen von Datenstrukturen
