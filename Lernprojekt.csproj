@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Arrays\Tag_1.cs" />
+    <Compile Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Arrays\Tag_2.cs" />
     <Compile Include="Themen\Monat_2_Fortgeschrittene_Datenstrukturen\Test2.cs" />
     <Compile Include="Themen\Monat_3_Such_und_Sortieralgorithmen\Test3.cs" />
     <Compile Include="Themen\Monat_4_Baumstrukturen\Test4.cs" />

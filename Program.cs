@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Lernprojekt.Themen.Monat_1_Grundlagen_von_Datenstrukturen.Arrays; // Namespace importieren
-using Lernprojekt.Themen.Monat_2_Fortgeschrittene_Datenstrukturen;
-using Lernprojekt.Themen.Monat_3_Such_und_Sortieralgorithmen;
-using Lernprojekt.Themen.Monat_4_Baumstrukturen;
-using Lernprojekt.Themen.Monat_5_Graphen_und_Algorithmen;
-using Lernprojekt.Themen.Monat_6_Praxisprojekte_und_Optimierung;
+using Lernprojekt.Themen.Monat_2_Fortgeschrittene_Datenstrukturen;      // Namespace importieren
+using Lernprojekt.Themen.Monat_3_Such_und_Sortieralgorithmen;           // Namespace importieren
+using Lernprojekt.Themen.Monat_4_Baumstrukturen;                        // Namespace importieren
+using Lernprojekt.Themen.Monat_5_Graphen_und_Algorithmen;               // Namespace importieren
+using Lernprojekt.Themen.Monat_6_Praxisprojekte_und_Optimierung;        // Namespace importieren
 
 namespace Lernprojekt
 {

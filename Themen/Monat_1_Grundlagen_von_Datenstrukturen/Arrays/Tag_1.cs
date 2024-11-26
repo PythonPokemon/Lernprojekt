@@ -35,7 +35,15 @@ namespace Lernprojekt.Themen.Monat_1_Grundlagen_von_Datenstrukturen.Arrays
                 Console.WriteLine(zahl);
             }
 
-
         }
     }
 }
+
+/*
+ Vertiefungsübungen machen, z. B.:
+
+Weitere Manipulationen mit Arrays ausprobieren.
+Verschachtelte Arrays (z. B. zweidimensionale Arrays) untersuchen.
+Einfache Problemstellungen lösen, wie das Finden des Maximums oder Minimums in einem Array.
+ 
+ */
