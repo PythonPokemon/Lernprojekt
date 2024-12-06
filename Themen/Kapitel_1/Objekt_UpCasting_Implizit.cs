@@ -4,7 +4,7 @@ namespace Lernprojekt.Themen.Kapitel_1
 {
     class A1
     {
-        // Klasseninhalt von A
+        // Klasseninhalt von A       
     }
 
     class B1 : A1

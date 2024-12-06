@@ -19,6 +19,7 @@ namespace Lernprojekt
             ObjektDownCastingExplizit.Methode();
             ObjektReferenz.Methode();
             Objekt_UpCasting_Implizit.Methode();
+            StringBeispiel.Methode();
 
 
             //-----------------------------------------------------------------------------------------------------Woche 2: Arbeiten mit Methoden und Klassen
