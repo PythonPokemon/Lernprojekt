@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Lernprojekt.Themen.Monat_1_C_Basics;// Namespace importieren
+using Lernprojekt.Themen.Kapitel_1; // Namespace importieren
 
 
 namespace Lernprojekt
@@ -12,16 +12,22 @@ namespace Lernprojekt
     {
         static void Main(string[] args)
         {
-            //-----------------------------------------------------------------------------------------------------Woche 1
-            
-            Tag_1.Lernen(); // Aufruf der Methode aus der Klasse Tag_1            
-            
+            // Kapiel 1 
+            //-----------------------------------------------------------------------------------------------------Woche 1: Einstieg in die Programmierung mit C#
+            AusdrueckeOperandenOperatoren.Methode();
+            Datentypen.Methode();
+            ObjektDownCastingExplizit.Methode();
+            ObjektReferenz.Methode();
+            Objekt_UpCasting_Implizit.Methode();
 
-            
 
-            //-----------------------------------------------------------------------------------------------------Woche2
+            //-----------------------------------------------------------------------------------------------------Woche 2: Arbeiten mit Methoden und Klassen
+
+
+
+            //-----------------------------------------------------------------------------------------------------
             // Konsole offen halten
-            Console.WriteLine("Drücken Sie eine beliebige Taste, um das Programm zu beenden.");
+            Console.WriteLine("\nDrücken Sie eine beliebige Taste, um das Programm zu beenden.");
             Console.ReadKey();
 
         }

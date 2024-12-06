@@ -95,13 +95,19 @@ Das garantiert, dass du nach drei Monaten auf einem professionellen Niveau bist.
 Struktur des Projekts
 Das Projekt wird die folgende Struktur haben:
 
+In IntelliJ IDEA ist das tatsächlich einfacher, da jede Klasse mit einer eigenen public static void main-Methode problemlos ausgeführt werden kann, ohne dass du explizit einen Einstiegspunkt definieren musst. 
+IntelliJ erkennt die main-Methode jeder Klasse und erlaubt es dir, die gewünschte Klasse direkt zu starten.
+
+In Visual Studio hingegen ist es so, dass nur eine Main-Methode als Einstiegspunkt festgelegt sein darf. Das bedeutet, dass du in Visual Studio entweder:
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Lernprojekt
 │
 ├── Themen
 │   ├── Monat 1: C# Basics
-│   │   ├── Tag_1.cs
-│   │   ├── Tag_2.cs
+│   │   ├── Grundlegende Syntax: Variablen, Datentypen, einfache Operationen
+│   │   ├── Kontrollstrukturen: if, else, switch
 │   │   └── ...
 │   |── Monat 2: C# WPF
 │   |    ├── Tag_8.cs
