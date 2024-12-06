@@ -1,161 +1,115 @@
-﻿Hier ist ein 6-monatiger Plan!
-der speziell für Anfänger im Bereich Datenstrukturen und Algorithmen in C# entwickelt wurde. 
-
-Der Plan erfordert täglich 15 Minuten Zeit und steigert den Schwierigkeitsgrad schrittweise.
-
-Das tägliche Zeitlimit von 15 Minuten wird durch kleine, machbare Einheiten eingehalten. 
-MöchTest2 du mit dem Plan starten oder Anpassungen vornehmen?
+﻿-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Monat 1: C# Basics																													|
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
-Monat 1: Grundlagen von Datenstrukturen
-Ziele: Grundlagen in C# auffrischen, einfache Datenstrukturen kennenlernen.
+Woche 1: Einstieg in die Programmierung mit C#
+
+Tag 1–2: Grundlegende Syntax: Variablen, Datentypen, einfache Operationen
+Tag 3–4: Kontrollstrukturen: if, else, switch
+Tag 5–6: Schleifen: for, while, do-while
+Tag 7: Mini-Projekt: Einfache Zahlenspielerei (Multiplikationstabelle)
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 2: Arbeiten mit Methoden und Klassen
+
+Tag 8–9: Methoden: Definition, Rückgabewerte, Parameter
+Tag 10–11: Klassen und Objekte: Grundlagen von OOP
+Tag 12: Konstruktoren und Destruktoren
+Tag 13–14: Mini-Projekt: Einfache Adressbuch-App (Klassen mit Attributen)
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 3: Weiterführende OOP-Konzepte
+
+Tag 15: Vererbung: Grundprinzipien
+Tag 16: Polymorphismus: Virtuelle Methoden und Überschreiben
+Tag 17–18: Abstrakte Klassen und Schnittstellen
+Tag 19–21: Mini-Projekt: Fahrzeug-Verwaltungssystem (mit Vererbung)
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 4: Arbeiten mit Dateien und Fehlerbehandlung
+
+Tag 22–23: Dateioperationen: Lesen und Schreiben
+Tag 24: Exception Handling: try, catch, finally
+Tag 25–26: Grundlagen der Serialisierung (JSON, XML)
+Tag 27–28: Mini-Projekt: Ein Notizbuch mit Speichern und Laden
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
-Woche 1: Einführung in Arrays
-Tag 1: Was sind Arrays? Syntax in C#
-Tag 2–5: Operationen mit Arrays (Hinzufügen, Entfernen, Iterieren)
-Tag 6–7: Mini-Projekt: Summe und Durchschnittswerte eines Arrays berechnen.
-
-Woche 2: Listen und ArrayList
-Tag 8: Was ist eine Liste? Unterschied zu Arrays.
-Tag 9–11: List-Methoden (Add, Remove, Contains, IndexOf).
-Tag 12–14: Mini-Projekt: Eine Einkaufsliste erstellen und bearbeiten.
-
-Woche 3: Stacks (LIFO)
-Tag 15: Konzept von Stacks.
-Tag 16–18: Implementierung eines Stacks mit der Stack-Klasse in C#.
-Tag 19–21: Mini-Projekt: Undo-Funktion simulieren.
-
-Woche 4: Queues (FIFO)
-Tag 22: Konzept von Queues.
-Tag 23–25: Implementierung einer Queue mit der Queue-Klasse in C#.
-Tag 26–28: Mini-Projekt: Kundenservice-Simulation.
-
+Monat 2: C# WPF																														|
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
-Monat 2: Fortgeschrittene Datenstrukturen
-Ziele: Verständnis für komplexere Strukturen entwickeln.
+Woche 1: Einführung in WPF
+
+Tag 29–30: Was ist WPF? Grundlagen von XAML
+Tag 31–32: Erstellen einfacher Layouts: Grid, StackPanel, Canvas
+Tag 33–35: Grundlagen der Datenbindung
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 2: Interaktivität und Benutzeroberfläche
+
+Tag 36–37: Arbeiten mit Steuerelementen: Button, TextBox, ListBox
+Tag 38–39: Ereignisse und Event-Handling
+Tag 40–42: Mini-Projekt: Ein einfacher Taschenrechner
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 3: Stil und Design in WPF
+
+Tag 43–44: Einführung in Styles und Templates
+Tag 45–46: Arbeiten mit Ressourcen und Themes
+Tag 47–49: Mini-Projekt: To-Do-Listen-App mit benutzerdefiniertem Design
+-------------------------------------------------------------------------------------------------------------------------------------
+Woche 4: Datenbindung und Datenquellen
+
+Tag 50–51: Einführung in ObservableCollection
+Tag 52–53: Datenbindung an Listen und Tabellen (DataGrid)
+Tag 54–56: Mini-Projekt: Einfache Datenanzeige aus einer lokalen Datei
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
-Woche 1: Dictionaries und HashMaps
-Tag 29: Einführung in Dictionaries.
-Tag 30–32: Operationen (Hinzufügen, Entfernen, Iterieren).
-Tag 33–35: Mini-Projekt: Benutzerverwaltung mit Username und Rolle.
-
-Woche 2: Sets
-Tag 36: Einführung in Mengenoperationen (Union, Intersection).
-Tag 37–39: Verwendung von HashSet in C#.
-Tag 40–42: Mini-Projekt: Duplikate in einer Liste entfernen.
-
-Woche 3: Einführung in Rekursion
-Tag 43: Konzept der Rekursion, einfache Beispiele.
-Tag 44–46: Implementierung von Fibonacci-Zahlen.
-Tag 47–49: Mini-Projekt: Faktorial-Rechner.
-
-Woche 4: Zeit- und Platzkomplexität
-Tag 50–52: Grundlagen von Big-O-Notation.
-Tag 53–55: Vergleich von Algorithmen (lineare vs. logarithmische Komplexität).
-Tag 56–58: Mini-Projekt: Analyse der Fibonacci-Implementierung.
-
+Monat 3: C# WPF mit MVVM-Architektur																								|
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
-Monat 3: Such- und Sortieralgorithmen
-Ziele: Effiziente Datenmanipulation erlernen.
+Woche 1: Grundlagen der MVVM-Architektur
+
+Tag 57: Was ist MVVM? Übersicht und Vorteile
+Tag 58–59: Trennung von Model, View und ViewModel
+Tag 60: Implementierung eines einfachen MVVM-Projekts
 -------------------------------------------------------------------------------------------------------------------------------------
+Woche 2: Arbeiten mit ViewModels
+
+Tag 61–62: Command-Pattern: ICommand und RelayCommand
+Tag 63–64: Kommunikation zwischen View und ViewModel
+Tag 65–66: Mini-Projekt: Notizbuch-App in MVVM
 -------------------------------------------------------------------------------------------------------------------------------------
-Woche 1–2: Sortieralgorithmen
-Tag 59–63: Bubble Sort und Selection Sort.
-Tag 64–68: Insertion Sort und Merge Sort.
-Mini-Projekt: Sortierverfahren vergleichen.
+Woche 3: Erweiterte MVVM-Konzepte
 
-Woche 3–4: Suchalgorithmen
-Tag 69–71: Lineare Suche.
-Tag 72–74: Binäre Suche.
-Tag 75–77: Mini-Projekt: Implementierung einer Telefonnummernsuche.
-
+Tag 67–68: Dependency Injection und Services
+Tag 69–70: Validierung in MVVM (Datenüberprüfung in ViewModels)
+Tag 71–72: Mini-Projekt: Aufgabenmanagement-System
 -------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-Monat 4: Baumstrukturen
-Ziele: Arbeit mit hierarchischen Datenstrukturen.
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
+Woche 4: Abschlussprojekt und Optimierung
 
-Woche 1: Einführung in Bäume
-Tag 78–80: Konzept von Bäumen, Begriffe (Knoten, Blätter, Wurzel).
-Tag 81–83: Binäre Bäume und Traversierung (Inorder, Preorder, Postorder).
+Tag 73–74: Abschlussprojekt starten: Eine kleine Anwendung (z. B. Budget-Tracker)
+Tag 75–76: Verbesserungen und Fehlerbehebung
+Tag 77–78: Code-Review und Dokumentation
 
-Woche 2: Binäre Suchbäume (BST)
-Tag 84–86: Einführung in BSTs.
-Tag 87–89: Implementierung eines BST in C#.
-
-Woche 3–4: Anwendung von Bäumen
-Tag 90–92: Mini-Projekt: Baum zur Darstellung eines Familienbaums.
-Tag 93–95: Einführung in AVL-Bäume (optional für Fortgeschrittene).
-
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-Monat 5: Graphen und Algorithmen
-Ziele: Grundlagen von Graphen und ihre Algorithmen.
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-
-Woche 1: Einführung in Graphen
-Tag 96–98: Konzepte von Knoten, Kanten, gerichtete/ungerichtete Graphen.
-Tag 99–101: Darstellung eines Graphen mit Adjazenzlisten.
-
-Woche 2: Tiefen- und Breitensuche (DFS und BFS)
-Tag 102–104: Implementierung von DFS.
-Tag 105–107: Implementierung von BFS.
-
-Woche 3: Dijkstra-Algorithmus
-Tag 108–110: Einführung und Anwendung.
-Tag 111–113: Implementierung von Dijkstra in C#.
-
-Woche 4: Mini-Projekt
-Tag 114–116: Navigation in einem Straßennetz simulieren.
-
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-Monat 6: Praxisprojekte und Optimierung
-Ziele: Algorithmen anwenden und optimieren.
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-Woche 1–2: Praxisprojekt
-Entwicklung einer kleinen Anwendung, z. B. ein Routenplaner oder eine To-Do-App mit Priorität.
-
-Woche 3–4: Optimierung und Vorbereitung auf komplexere Themen
-Einführung in dynamische Programmierung und Greedy-Algorithmen.
-
--------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
+Mit diesem Plan baust du systematisch Wissen auf: von den Grundlagen in C#, über WPF, bis hin zur modernen MVVM-Architektur. 
+Das garantiert, dass du nach drei Monaten auf einem professionellen Niveau bist. 😊
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Struktur des Projekts
 Das Projekt wird die folgende Struktur haben:
 
-mathematica
-Code kopieren
+
 Lernprojekt
 │
 ├── Themen
-│   ├── Arrays
+│   ├── Monat 1: C# Basics
 │   │   ├── Tag_1.cs
 │   │   ├── Tag_2.cs
 │   │   └── ...
-│   └── Listen
-│       ├── Tag_8.cs
-│       ├── Tag_9.cs
-│       └── ...
-│
+│   |── Monat 2: C# WPF
+│   |    ├── Tag_8.cs
+│   |    ├── Tag_9.cs
+│   |    └── ...
+│	|-- Monat 3: C# WPF mit MVVM-Architektur
+|	 	 ├── Tag_8.cs
+│        ├── Tag_9.cs
+│        └── ...
+|
 └── Program.cs

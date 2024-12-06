@@ -3,12 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Lernprojekt.Themen.Monat_1_Grundlagen_von_Datenstrukturen.Arrays; // Namespace importieren
-using Lernprojekt.Themen.Monat_2_Fortgeschrittene_Datenstrukturen;      // Namespace importieren
-using Lernprojekt.Themen.Monat_3_Such_und_Sortieralgorithmen;           // Namespace importieren
-using Lernprojekt.Themen.Monat_4_Baumstrukturen;                        // Namespace importieren
-using Lernprojekt.Themen.Monat_5_Graphen_und_Algorithmen;               // Namespace importieren
-using Lernprojekt.Themen.Monat_6_Praxisprojekte_und_Optimierung;        // Namespace importieren
+using Lernprojekt.Themen.Monat_1_C_Basics;// Namespace importieren
+
 
 namespace Lernprojekt
 {
@@ -16,19 +12,14 @@ namespace Lernprojekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tag 1: Arrays Grundlagen");
-            Tag_1.Lernen(); // Aufruf der Methode aus der Klasse Tag_1
-            Console.WriteLine("\nTag 2: Listen Grundlagen");
-            Tag_2.Lernen(); // Aufruf der Methode aus der Klasse Tag_2
+            //-----------------------------------------------------------------------------------------------------Woche 1
+            
+            Tag_1.Lernen(); // Aufruf der Methode aus der Klasse Tag_1            
+            
 
+            
 
-
-            //Test2.Test2lauf();
-            //Test3.Test3lauf();
-            //Test4.Test4lauf();
-            //Test5.Test5lauf();
-            //Test6.Test6lauf();
-
+            //-----------------------------------------------------------------------------------------------------Woche2
             // Konsole offen halten
             Console.WriteLine("Drücken Sie eine beliebige Taste, um das Programm zu beenden.");
             Console.ReadKey();

@@ -45,31 +45,19 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Arrays\Tag_1.cs" />
-    <Compile Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Arrays\Tag_2.cs" />
-    <Compile Include="Themen\Monat_2_Fortgeschrittene_Datenstrukturen\Test2.cs" />
-    <Compile Include="Themen\Monat_3_Such_und_Sortieralgorithmen\Test3.cs" />
-    <Compile Include="Themen\Monat_4_Baumstrukturen\Test4.cs" />
-    <Compile Include="Themen\Monat_5_Graphen_und_Algorithmen\Test5.cs" />
-    <Compile Include="Themen\Monat_6_Praxisprojekte_und_Optimierung\Test6.cs" />
+    <Compile Include="Themen\Monat_1_C#_Basics\Tag_1.cs" />
+    <Compile Include="Themen\Monat_3_C#_WPF_mit_MVVM_Architektur\Test3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Listen\" />
-    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Queues\" />
-    <Folder Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Stacks\" />
+    <Folder Include="Themen\Monat_2_C#_WPF\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Algorythmen.txt" />
     <Content Include="Projekt.txt" />
-    <Content Include="Themen\Monat_1_Grundlagen_von_Datenstrukturen\Grundlagen.txt" />
-    <Content Include="Themen\Monat_2_Fortgeschrittene_Datenstrukturen\Fortgeschrittene Datenstrukturen.txt" />
-    <Content Include="Themen\Monat_3_Such_und_Sortieralgorithmen\Monat 3 Such und Sortieralgorithmen.txt" />
-    <Content Include="Themen\Monat_4_Baumstrukturen\Monat 4 Baumstrukturen.txt" />
-    <Content Include="Themen\Monat_5_Graphen_und_Algorithmen\Monat 5  Graphen und Algorithmen.txt" />
-    <Content Include="Themen\Monat_6_Praxisprojekte_und_Optimierung\Monat 6 Praxisprojekte und Optimierung.txt" />
+    <Content Include="Themen\Monat_3_C#_WPF_mit_MVVM_Architektur\Monat 3 Such und Sortieralgorithmen.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
