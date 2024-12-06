@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Hinweis:
+
+In C# sind Umwandlungen zwischen kompatiblen Datentypen wie byte zu short, short zu int und so weiter automatisch und implizit möglich, 
+ohne dass explizite Casts erforderlich sind.
+Beim Umwandeln von char zu int oder long wird der numerische Wert des Zeichens (z. B. der ASCII-Code) verwendet.
+ */
+
+using System;
 
 namespace Lernprojekt.Themen.Kapitel_1
 {

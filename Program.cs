@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Lernprojekt.Themen.Kapitel_1; // Namespace importieren
+using Lernprojekt.Themen.Kapitel_1.Umwandlung_Casting;
+using Lernprojekt.Themen.Kapitel_1.Code_Blöcke;
 
 
 namespace Lernprojekt
@@ -20,7 +18,15 @@ namespace Lernprojekt
             ObjektReferenz.Methode();
             Objekt_UpCasting_Implizit.Methode();
             StringBeispiel.Methode();
-
+            UmwandlungUndKonvertierung.Methode();
+            Casting_Vererbung_Objekte_Methoden.Methode();
+            Explizite_Umwandlung_Narrowing.Methode();
+            Implizite_Umwandlung_Widening.Methode();
+            // Code_Blöcke
+            Bedingungsblock_ConditionalBlock.Methode();
+            Klassenblock.Methode();
+            Methodenblock.Methode();
+            Schleifenblock_LoopBlock.Methode();
 
             //-----------------------------------------------------------------------------------------------------Woche 2: Arbeiten mit Methoden und Klassen
 

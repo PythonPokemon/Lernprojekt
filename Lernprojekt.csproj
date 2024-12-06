@@ -46,6 +46,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Themen\Kapitel_1\AusdrueckeOperandenOperatoren.cs" />
+    <Compile Include="Themen\Kapitel_1\Code_Blöcke\Bedingungsblock_ConditionalBlock.cs" />
+    <Compile Include="Themen\Kapitel_1\Code_Blöcke\Klassenblock.cs" />
+    <Compile Include="Themen\Kapitel_1\Code_Blöcke\Methodenblock.cs" />
+    <Compile Include="Themen\Kapitel_1\Code_Blöcke\Schleifenblock_LoopBlock.cs" />
     <Compile Include="Themen\Kapitel_1\Datentypen.cs" />
     <Compile Include="Themen\Kapitel_1\ObjektDownCastingExplizit.cs" />
     <Compile Include="Themen\Kapitel_1\ObjektReferenz.cs" />
@@ -53,16 +57,17 @@
     <Compile Include="Themen\Kapitel_1\StringBeispiel.cs" />
     <Compile Include="Themen\Kapitel_1\UmwandlungUndKonvertierung.cs" />
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Casting_Vererbung_Objekte_Methoden.cs" />
+    <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Explizite_Umwandlung_Narrowing.cs" />
+    <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Implizite_Umwandlung_Widening.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Themen\Kapitel_1\Code_Blöcke\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Algorythmen.txt" />
     <Content Include="Projekt.txt" />
+    <Content Include="Themen\Kapitel_1\Code_Blöcke\Notiz.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
