@@ -64,6 +64,9 @@
     <Compile Include="Themen\Kapitel_2\Array\Array_Letztes_Element_Index.cs" />
     <Compile Include="Themen\Kapitel_2\Array\Person.cs" />
     <Compile Include="Themen\Kapitel_2\Array\TestArray.cs" />
+    <Compile Include="Themen\Kapitel_2\Casting\ObjektCasting.cs" />
+    <Compile Include="Themen\Kapitel_2\Casting\ObjektCastingInstanceofMethode.cs" />
+    <Compile Include="Themen\Kapitel_2\Casting\Typumwandlung_Casting.cs" />
     <Compile Include="Themen\Kapitel_2\Instanzvariablen .cs" />
     <Compile Include="Themen\Kapitel_2\LokaleVariable.cs" />
     <Compile Include="Themen\Kapitel_2\PotenzBeispiel.cs" />

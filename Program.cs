@@ -5,6 +5,7 @@ using Lernprojekt.Themen.Kapitel_1.Code_Blöcke;
 using Lernprojekt.Themen.Kapitel_2;
 using Lernprojekt.Themen.Kapitel_2.Array;
 using Lernprojekt.Themen.Kapitel_2.ArrayList;
+using Lernprojekt.Themen.Kapitel_2.Casting;
 
 
 namespace Lernprojekt
@@ -13,6 +14,7 @@ namespace Lernprojekt
     {
         static void Main(string[] args)
         {
+            // Auskommentieren Strg + K + C | Rückgängig Strg + K + U
             // Kapiel 1 
             //-----------------------------------------------------------------------------------------------------Kapiel 1
             //AusdrueckeOperandenOperatoren.Methode();
@@ -50,9 +52,12 @@ namespace Lernprojekt
             //TestArray.Methode();
 
             // ArrayList
-            TestArrayList.Methode();
+            //TestArrayList.Methode();
 
-
+            // Casting
+            ObjektCasting.Methode();
+            ObjektCastingInstanceofMethode.Methode();
+            Typumwandlung_Casting.Methode();
 
 
 
