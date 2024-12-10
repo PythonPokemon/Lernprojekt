@@ -1,0 +1,33 @@
+﻿Unterschiede zwischen Array und List in C#
+Größe:
+Array: Die Größe des Arrays ist fest und wird bei der Erstellung festgelegt. Ein Array in C# hat eine feste Größe, die nicht zur Laufzeit verändert werden kann.
+List: Die Größe einer List<T> ist dynamisch und passt sich an, wenn Elemente hinzugefügt oder entfernt werden. Eine List<T> wächst oder schrumpft je nach Bedarf.
+
+Flexibilität:
+Array: Arrays sind weniger flexibel, da ihre Größe nach der Initialisierung nicht geändert werden kann. Sie bieten jedoch eine direkte und effiziente Möglichkeit zur Speicherung von Elementen.
+List: List<T> bietet mehr Flexibilität, da sie Methoden wie Add(), Remove(), Clear(), etc. zur Verfügung stellt, um die Sammlung dynamisch zu verändern.
+
+Leistung:
+Array: Arrays können schneller sein, da sie weniger Overhead haben und die Elemente direkt im Speicher platziert werden.
+List: List<T> ist aufgrund des zusätzlichen Overheads für das dynamische Größenmanagement und die Methoden des .NET Collection Frameworks etwas langsamer als Arrays.
+
+Typüberprüfung:
+Array: Arrays bieten eine starke Typüberprüfung zur Kompilierzeit. In C# müssen alle Elemente eines Arrays denselben Typ haben.
+List: List<T> bietet ebenfalls eine starke Typüberprüfung zur Kompilierzeit. Man muss jedoch den generischen Typ angeben, z. B. List<int>, List<string>, usw.
+
+Zusammenfassung
+Arrays sind grundlegende Datenstrukturen mit einer festen Größe und geringerem Overhead, während List<T> dynamische, flexiblere Strukturen bietet, die viele nützliche Methoden zur Verfügung stellen, aber etwas mehr Overhead haben. Die Wahl zwischen Array und List<T> hängt von den Anforderungen Ihres Programms ab.
+
+Arrays eignen sich besser, wenn Sie eine feste Anzahl von Elementen haben und Leistung ein wichtiger Faktor ist.
+List<T> ist die bessere Wahl, wenn Sie eine flexible Sammlung benötigen und den zusätzlichen Komfort von Methoden wie Add(), Remove(), und Clear() wünschen.
+
+Arrays:
+Arrays können sowohl primitive Datentypen (z. B. int, float) als auch Objekte speichern.
+Bei Arrays von primitiven Datentypen werden die Werte direkt als primitive Werte im Speicher gespeichert.
+Bei Arrays von Objekten werden die Objekte im Heap gespeichert, und das Array speichert die Referenzen auf diese Objekte.
+
+List:
+List<T> kann nur Objekte speichern, und primitive Datentypen müssen in ihre entsprechenden Wrapper-Klassen (int in Int32, char in Char, etc.) umgewandelt werden, bevor sie zu einer List<T> hinzugefügt werden.
+Die List<T> speichert die Referenzen auf die Objekte, die im Heap gespeichert werden.
+
+In C# sind Array und List<T> grundlegende Datentypen, aber die Entscheidung, welches zu verwenden ist, hängt stark von der spezifischen Anwendung und den Anforderungen an Flexibilität, Leistung und Speichermanagement ab.

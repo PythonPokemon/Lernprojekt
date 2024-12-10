@@ -59,6 +59,15 @@
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Casting_Vererbung_Objekte_Methoden.cs" />
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Explizite_Umwandlung_Narrowing.cs" />
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Implizite_Umwandlung_Widening.cs" />
+    <Compile Include="Themen\Kapitel_2\Array\Array_Deklaration_Initialisierung.cs" />
+    <Compile Include="Themen\Kapitel_2\Array\Array_Letztes_Element_Index.cs" />
+    <Compile Include="Themen\Kapitel_2\Array\Person.cs" />
+    <Compile Include="Themen\Kapitel_2\Array\TestArray.cs" />
+    <Compile Include="Themen\Kapitel_2\Instanzvariablen .cs" />
+    <Compile Include="Themen\Kapitel_2\LokaleVariable.cs" />
+    <Compile Include="Themen\Kapitel_2\PotenzBeispiel.cs" />
+    <Compile Include="Themen\Kapitel_2\Quadratzahlen.cs" />
+    <Compile Include="Themen\Kapitel_2\StatischeMethode_VS_InstanzMethoden.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -68,6 +77,7 @@
     <Content Include="Algorythmen.txt" />
     <Content Include="Projekt.txt" />
     <Content Include="Themen\Kapitel_1\Code_Blöcke\Notiz.txt" />
+    <Content Include="Themen\Kapitel_2\Array\Notiz.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
