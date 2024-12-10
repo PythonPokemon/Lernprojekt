@@ -6,6 +6,7 @@ using Lernprojekt.Themen.Kapitel_2;
 using Lernprojekt.Themen.Kapitel_2.Array;
 using Lernprojekt.Themen.Kapitel_2.ArrayList;
 using Lernprojekt.Themen.Kapitel_2.Casting;
+using Lernprojekt.Themen.Kapitel_2.IF_Else;
 
 
 namespace Lernprojekt
@@ -55,11 +56,15 @@ namespace Lernprojekt
             //TestArrayList.Methode();
 
             // Casting
-            ObjektCasting.Methode();
-            ObjektCastingInstanceofMethode.Methode();
-            Typumwandlung_Casting.Methode();
+            //ObjektCasting.Methode();
+            //ObjektCastingInstanceofMethode.Methode();
+            //Typumwandlung_Casting.Methode();
 
-
+            // IF_Else
+            IF_Anweisung.Methode();
+            IF_Anweisung_Vermehrt_Statisch.Methode();
+            IF_Else_Anweisung.Methode();
+            IF_Else_Anweisung_Erweitert.Methode();
 
 
 

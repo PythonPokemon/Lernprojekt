@@ -67,6 +67,10 @@
     <Compile Include="Themen\Kapitel_2\Casting\ObjektCasting.cs" />
     <Compile Include="Themen\Kapitel_2\Casting\ObjektCastingInstanceofMethode.cs" />
     <Compile Include="Themen\Kapitel_2\Casting\Typumwandlung_Casting.cs" />
+    <Compile Include="Themen\Kapitel_2\IF_Else\IF_Anweisung.cs" />
+    <Compile Include="Themen\Kapitel_2\IF_Else\IF_Anweisung_Vermehrt_Statisch.cs" />
+    <Compile Include="Themen\Kapitel_2\IF_Else\IF_Else_Anweisung.cs" />
+    <Compile Include="Themen\Kapitel_2\IF_Else\IF_Else_Anweisung_Erweitert.cs" />
     <Compile Include="Themen\Kapitel_2\Instanzvariablen .cs" />
     <Compile Include="Themen\Kapitel_2\LokaleVariable.cs" />
     <Compile Include="Themen\Kapitel_2\PotenzBeispiel.cs" />
