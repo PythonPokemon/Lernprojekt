@@ -59,6 +59,7 @@
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Casting_Vererbung_Objekte_Methoden.cs" />
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Explizite_Umwandlung_Narrowing.cs" />
     <Compile Include="Themen\Kapitel_1\Umwandlung_Casting\Implizite_Umwandlung_Widening.cs" />
+    <Compile Include="Themen\Kapitel_2\ArrayLIst\TestArrayList.cs" />
     <Compile Include="Themen\Kapitel_2\Array\Array_Deklaration_Initialisierung.cs" />
     <Compile Include="Themen\Kapitel_2\Array\Array_Letztes_Element_Index.cs" />
     <Compile Include="Themen\Kapitel_2\Array\Person.cs" />

@@ -4,6 +4,7 @@ using Lernprojekt.Themen.Kapitel_1.Umwandlung_Casting;
 using Lernprojekt.Themen.Kapitel_1.Code_Blöcke;
 using Lernprojekt.Themen.Kapitel_2;
 using Lernprojekt.Themen.Kapitel_2.Array;
+using Lernprojekt.Themen.Kapitel_2.ArrayList;
 
 
 namespace Lernprojekt
@@ -13,7 +14,7 @@ namespace Lernprojekt
         static void Main(string[] args)
         {
             // Kapiel 1 
-            //-----------------------------------------------------------------------------------------------------Woche 1: Einstieg in die Programmierung mit C#
+            //-----------------------------------------------------------------------------------------------------Kapiel 1
             //AusdrueckeOperandenOperatoren.Methode();
             //Datentypen.Methode();
             //ObjektDownCastingExplizit.Methode();
@@ -30,22 +31,26 @@ namespace Lernprojekt
             //Methodenblock.Methode();
             //Schleifenblock_LoopBlock.Methode();
 
-            //-----------------------------------------------------------------------------------------------------Woche 2: Arbeiten mit Methoden und Klassen
-            Instanzvariablen.Aufruf();
-            LokaleVariable.Beispiel1();
-            LokaleVariable.Beispiel2();
-            LokaleVariable.Beispiel4();
-            PotenzBeispiel.Methode();
-            Quadratzahlen.Methode();
-            StatischeMethode_VS_InstanzMethoden.Methode();
-            StatischeMethode_VS_InstanzMethoden.StatischeMethode();
-            Array_Deklaration_Initialisierung.Methode();
-            Array_Letztes_Element_Index.Methode();
-            // Erstellung eines Objekts der Person-Klasse
-            Themen.Kapitel_2.Array.Person person = new Themen.Kapitel_2.Array.Person("John Doe", 30);
-            // Ausgabe der Personendetails
-            Console.WriteLine(person.GetDetails());
-            TestArray.Methode();
+            //-----------------------------------------------------------------------------------------------------Kapiel 2
+            // Array
+            //Instanzvariablen.Aufruf();
+            //LokaleVariable.Beispiel1();
+            //LokaleVariable.Beispiel2();
+            //LokaleVariable.Beispiel4();
+            //PotenzBeispiel.Methode();
+            //Quadratzahlen.Methode();
+            //StatischeMethode_VS_InstanzMethoden.Methode();
+            //StatischeMethode_VS_InstanzMethoden.StatischeMethode();
+            //Array_Deklaration_Initialisierung.Methode();
+            //Array_Letztes_Element_Index.Methode();
+            //// Erstellung eines Objekts der Person-Klasse
+            //Themen.Kapitel_2.Array.Person person = new Themen.Kapitel_2.Array.Person("John Doe", 30);
+            //// Ausgabe der Personendetails
+            //Console.WriteLine(person.GetDetails());
+            //TestArray.Methode();
+
+            // ArrayList
+            TestArrayList.Methode();
 
 
 
